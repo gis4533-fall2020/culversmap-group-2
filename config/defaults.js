@@ -41,7 +41,7 @@ define({
   "subtitle": null,
   "showLogo": true,
   "logoLink": "https://www.culvers.com/",
-  "logo": "./images/culvers logo.png",
+  "logo": "./images/culvers-restaurants-1-logo-png-transparent.png",
   "showSocialIcons": true,
   "showSocialText": true,
   "socialLink": "https://www.culvers.com/menu-and-nutrition",
