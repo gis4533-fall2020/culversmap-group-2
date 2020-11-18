@@ -173,7 +173,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
 .logoContainer{
   height:60px;
   float:right;
-  margin-top:5px;
+  margin-top:0px;
   width:100%;
 }
 .logoWrapper{
@@ -192,8 +192,9 @@ a:hover{
   text-decoration: underline;
 }
 .logoImg{
-  max-width: 250px;
-  max-height: 50px;
+  max-width: 150px;
+  max-height: 150px;
+  padding-top: 10px;
 }
 img{
   border:none;
