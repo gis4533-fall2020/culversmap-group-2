@@ -37,7 +37,7 @@ define({
   "legendTitleColor": "#fff",
   "showTitle": true,
   "showSubTitle": true,
-  "title": null,
+  "title": "Culver's",
   "subtitle": null,
   "showLogo": true,
   "logoLink": "https://www.esri.com",
