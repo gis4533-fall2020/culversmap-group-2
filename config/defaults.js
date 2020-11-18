@@ -31,7 +31,7 @@ define({
   // not used in the download version.
   "customstyle": null,
   "background": "#005599",
-  "color": "#444",
+  "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
   "legendTitleColor": "#fff",
