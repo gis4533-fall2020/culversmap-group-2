@@ -37,7 +37,7 @@ define({
   "legendTitleColor": "#fff",
   "showTitle": true,
   "showSubTitle": true,
-  "title": "Culver's",
+  "title": "Culvers Locations",
   "subtitle": null,
   "showLogo": true,
   "logoLink": "https://www.culvers.com/",
