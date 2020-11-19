@@ -104,10 +104,10 @@ body{
 }
 #title{
   font-family: "open_sanssemibold", sans-serif;
-  height:45px;
+  height:65px;
   padding-left:4px;
   padding-top:3px;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: 400;
   text-align: left;
   white-space: nowrap;
@@ -127,7 +127,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
   line-height: 18px;
   word-wrap:break-word;
   height:54px;
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 400;
   overflow-x: hidden;
   overflow-y: auto !important;
@@ -173,7 +173,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
 .logoContainer{
   height:60px;
   float:right;
-  margin-top:5px;
+  margin-top:0px;
   width:100%;
 }
 .logoWrapper{
@@ -192,8 +192,9 @@ a:hover{
   text-decoration: underline;
 }
 .logoImg{
-  max-width: 250px;
-  max-height: 50px;
+  max-width: 150px;
+  max-height: 150px;
+  padding-top: 10px;
 }
 img{
   border:none;
